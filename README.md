@@ -1,0 +1,2 @@
+# GAMEMOD-BASE-FUGA
+gm base
